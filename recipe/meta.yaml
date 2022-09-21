@@ -1,5 +1,5 @@
 {% set name = "looker-sdk" %}
-{% set version = "22.10.0" %}
+{% set version = "22.12.1" %}
 
 package:
   name: {{ name|lower }}
@@ -7,7 +7,7 @@ package:
 
 source:
   url: https://pypi.io/packages/source/{{ name[0] }}/{{ name }}/looker_sdk-{{ version }}.tar.gz
-  sha256: 131fc001d669faaa3dd6a64e2ed467ce5611e32d1320b8b270f819c48e6954d1
+  sha256: 7df1a61412213943b87740dc548d1a515fd81e7563fc55eeaf6502a59cbd8e89
 
 build:
   noarch: python
