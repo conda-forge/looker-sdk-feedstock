@@ -21,7 +21,6 @@ requirements:
     - setuptools
 
   run:
-    - typing_extensions >=4.1.1
     - python >=3.7
     - attrs >=20.1.0
     - cattrs >=1.3
