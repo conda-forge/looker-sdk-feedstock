@@ -40,6 +40,7 @@ about:
   summary: Looker REST API
   license: MIT
   license_file: LICENSE.txt
+  dev_url: https://github.com/looker-open-source/sdk-codegen/tree/main/python
 
 extra:
   recipe-maintainers:
