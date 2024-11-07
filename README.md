@@ -9,6 +9,8 @@ Package license: MIT
 
 Summary: Looker REST API
 
+Development: https://github.com/looker-open-source/sdk-codegen/tree/main/python
+
 Current build status
 ====================
 
