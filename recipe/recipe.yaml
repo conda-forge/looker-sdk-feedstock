@@ -2,7 +2,7 @@ schema_version: 1
 
 context:
   name: looker-sdk
-  version: "26.6.0"
+  version: "26.6.1"
 
 package:
   name: ${{ name|lower }}
@@ -10,7 +10,7 @@ package:
 
 source:
   url: https://pypi.org/packages/source/${{ name[0] }}/${{ name }}/looker_sdk-${{ version }}.tar.gz
-  sha256: 83cbee87ab1af0cf40163e9c8ea98c39ae655947aacf639fbbe79190ffdbf758
+  sha256: caba0212a8b0d1d7d3e2ed21102c52b2398ed0eb6a899d1bcb2dac1d99b753f8
 
 build:
   number: 0
